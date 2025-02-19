@@ -21,7 +21,7 @@
     "author": "Faith Obi",
     "settings": [
       {
-        "label": "Reminder Frequency",
+        "label": "interval",
         "type": "text",
         "required": true,
         "default": "* * * * *"
@@ -44,6 +44,6 @@
       }
     ],
     "target_url": "''",
-    "tick_url": "https://share-blogs-telex-api.onrender.com/daily-standup-report"
+    "tick_url": "https://share-blogs-telex-api.onrender.com/tick"
   }
 }
